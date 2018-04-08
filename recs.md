@@ -10,8 +10,8 @@ https://az764295.vo.msecnd.net/stable/79b44aa704ce542d8ca4a3cc44cfca566e7720f1/V
 packaged with a PortableApps.com launcher  
 https://github.com/garethflowers/vscode-portable/releases
 
-install VSCodePortable_1.21.1_online.paf.exe   
-https://github.com/garethflowers/vscode-portable/releases/download/v1.21.1/VSCodePortable_1.21.1_online.paf.exe
+    install VSCodePortable_1.21.1_online.paf.exe   
+    https://github.com/garethflowers/vscode-portable/releases/download/v1.21.1/VSCodePortable_1.21.1_online.paf.exe
 
 
 - Portable Sublime Text Build 3143.zip  
